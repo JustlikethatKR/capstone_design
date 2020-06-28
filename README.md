@@ -1,1 +1,2 @@
-# capstone_design
+# Capstone_design
+* 새싹팀
